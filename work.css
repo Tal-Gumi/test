@@ -1,0 +1,25 @@
+
+fieldset 
+{
+    left: 0%;
+    width: 20%;
+    padding: 15px 15px 15px 15px ;
+
+}
+
+
+select {width: 50%;}
+
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 40%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
